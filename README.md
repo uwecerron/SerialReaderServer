@@ -1,3 +1,5 @@
-SerialPort
+##SerialPort
+C Script to forward data from any /dev device to a server.
 
-This is a Serial Port data streamer I wrote to forward data from an Arduino device to my web server.
+##TO DO
+*Need to upload php server file.
